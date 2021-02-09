@@ -10,7 +10,7 @@ I faced environment setup issues because VM link was broken and scripts were loo
 4. config.ini works better with configparser scripts instead of the config.py file
 
 
-Suggestions
+Suggestions:
 
 1. Create new project and Install Packages/plugins
 
